@@ -6,9 +6,9 @@ I'm a Software Developer passionate about building impactful products with clean
 
 #### 🔧 Tech Stack  
 - 🌐 Frontend: React.js, Vite, Vue.js  
-- 🔙 Backend: Node.js, Express, C++  
-- ☁️ Database: Firebase, Firestore, MongoDB  
-- ⚙️ Tools: Git, GitHub, VSCode, Postman
+- 🔙 Backend: Node.js, Express, C++ .Java
+- ☁️ Database: Firebase, Firestore, MongoDB , MySQL
+- ⚙️ Tools: Git, GitHub, VSCode, Postman, Docker, Kubernetes , jenkins 
 
 ---
 
@@ -19,11 +19,6 @@ I'm a Software Developer passionate about building impactful products with clean
 
 ---
 
-#### 📈 GitHub Stats
-
-![Arpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
----
 
 #### 📫 Let's Connect
-[LinkedIn](https://linkedin.com/in/your-link) • [YouTube](https://youtube.com/@yourchannel) • [Portfolio](https://your-portfolio.com)
+[LinkedIn](https://www.linkedin.com/in/arpit-mishra-2298571a9/)
