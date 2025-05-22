@@ -12,10 +12,6 @@ I'm a Software Developer passionate about building impactful products with clean
 
 ---
 
-#### 💼 Projects
-- 🧠 AI Career Advisor - GenAI-powered resume feedback tool [🔗 Link]
-- 🍽️ Recipe Collector App - Save recipes with image/text/link [🔗 Link]
-- ✅ Todo Tracker - Auth + Firestore-based realtime todo app [🔗 Link]
 
 ---
 
