@@ -6,7 +6,7 @@ I'm a Software Developer passionate about building impactful products with clean
 
 #### 🔧 Tech Stack  
 - 🌐 Frontend: React.js, Vite, Vue.js  
-- 🔙 Backend: Node.js, Express, C++ .Java
+- 🔙 Backend: Node.js, Express, C++ .Java, SpringBoot
 - ☁️ Database: Firebase, Firestore, MongoDB , MySQL
 - ⚙️ Tools: Git, GitHub, VSCode, Postman, Docker, Kubernetes , jenkins 
 
