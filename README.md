@@ -1,7 +1,6 @@
 ### 👋 Hi, I'm Arpit Mishra
 
 I'm a Software Developer passionate about building impactful products with clean, scalable code.
-
 ---
 
 #### 🔧 Tech Stack  
